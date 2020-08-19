@@ -1,0 +1,2429 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Unicorn Cafe",
+        "formatted_address": "44/1 Soi Sathon 8, Silom, Bang Rak, Bangkok 10500, Thailand",
+        "rating": "4.1",
+        "user_ratings_total": 1265,
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110170319556299463317\">JUNKI LEE</a>"
+                ],
+                "photo_reference": "CmRaAAAA-TAuRj-n0NVx6tGE6PJ-hsh3A_V6SGDckvNt1_HuLKwROBp2UjssasS-vAHFzsPGnbDRc1mdAdzj8fdGk9EK5F6yobpsuCFs4QFrkcr6eV72zkhf32-By65IKLktaSpHEhAfbPbTS60tZr9CzFEjdsfgGhQI7SZvCC0GxeIkzn9JsywuIHqkJw",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7234003,
+                "lng": 100.5312125
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72471777989272,
+                    "lng": 100.5325599298927
+                },
+                "southwest": {
+                    "lat": 13.72201812010728,
+                    "lng": 100.5298602701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJjQDnYy2f4jARekw6D2f_Xzc"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Caturday Cat Cafe",
+        "formatted_address": "10400, 89/70 Phayathai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok 10400, Thailand",
+        "rating": "4.5",
+        "user_ratings_total": 1238,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111806512525016799611\">Daniel New</a>"
+                ],
+                "photo_reference": "CmRaAAAAifGrQhddpCzKU9J3BiJQVPX_BZ8iziqXJI5IUz5lLzHXbkhHPXl9xBgoRkkGmTeYSE3gxusAZQ7NaS6UfqS01iAou_q6-clKuDUP4MKMkLnjjBgd-kNjx0HSgLC_YwOxEhDpKwLYa-htDLZ6qRBGfoGIGhSVDr7Cuo5wYoFTy0ZLut_My_mW8g",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7514502,
+                "lng": 100.5321566
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75271832989272,
+                    "lng": 100.5334934298927
+                },
+                "southwest": {
+                    "lat": 13.75001867010728,
+                    "lng": 100.5307937701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ9_Clhsye4jARJu3QlfvyT0M"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Roast",
+        "formatted_address": "693 695 Sukhumvit Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 1135,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104010555336369115665\">\u738b\u5c0f\u660e</a>"
+                ],
+                "photo_reference": "CmRaAAAALaEQ84MBQzRAGwtQEHJ8IrY4X53G9MdTIZ68Qm0SUiCMYRF2zimzkmfZhSEHZrTXQcAMAPRE5gDYeeg0AJxJ8uCRqulumPuNEe8BgE4mUqsArL8KNXP1vUR_sjBx4RAHEhAGkCE1hiJqUhTuSCovTMqFGhSRZoL7iY3dU9coKBDYy5mRtJdJqA",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7318014,
+                "lng": 100.5693685
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73323577989272,
+                    "lng": 100.5705642298927
+                },
+                "southwest": {
+                    "lat": 13.73053612010728,
+                    "lng": 100.5678645701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJbeWM8wGf4jAR7FjVuQoT7po"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Little Zoo Cafe Siam Bangkok | Corgi | Fox | Meerkat | Cats | Dog | Animal Cafe",
+        "formatted_address": "424/7 Siam square, Rama I Rd, Pathum Wan District, Bangkok 10330, Thailand",
+        "rating": "4.2",
+        "user_ratings_total": 920,
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112558044982677247551\">William Yang</a>"
+                ],
+                "photo_reference": "CmRaAAAAl7OyuYMqbVJI0Lex5yfIK9Met8HYAQLg9WfUs9qWF21EVevdsvf6C7-VnbfPHDvBEznSl37yqWPKkG05N6FbxqpMtpjSshYX0MAX2JGoAZUpd5Qk0Bb8hqMqaw748mi6EhDshZLFLdR9WJ_ROhjA6vDoGhT1gQNgY7HssdYSCUBVYSrtYxk7JQ",
+                "width": 5312
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7443105,
+                "lng": 100.5317964
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74566312989272,
+                    "lng": 100.5331294298927
+                },
+                "southwest": {
+                    "lat": 13.74296347010728,
+                    "lng": 100.5304297701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJC2SX8nmD4jAR_xFzOQQf__w"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Luka Bangkok",
+        "formatted_address": "64, 3 Pan Rd, Silom, Bang Rak, Bangkok 10500, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 897,
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117931952254988023054\">Vipasiri Napawongdee</a>"
+                ],
+                "photo_reference": "CmRaAAAA1Gb4qtBX5-a-q4-v_EzW-aw6iBzDDKs3EV0-W0P119BrtGjSf_G8a9lCyYr86c4zvgeTq6pkUNsJ1kwhXGsbAYAXWltYyDcEKhLhYE9lKFWrvuamG4hFifo3-2Peu28nEhAUGOOwS3u9u3PZvYlUKMkDGhTeK8HpNPZLCQ5owBn87vsnK8ooKA",
+                "width": 3968
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.721639,
+                "lng": 100.523855
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72299842989272,
+                    "lng": 100.5252351798927
+                },
+                "southwest": {
+                    "lat": 13.72029877010728,
+                    "lng": 100.5225355201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJhXVods6Y4jAR-rsOEBrSXdI"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "B-STORY",
+        "formatted_address": "89, 70 Phayathai Rd, Thanon Phetchaburi, Ratchathewi, Bangkok 10400, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 853,
+        "photos": [
+            {
+                "height": 720,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104946817608087295452\">Hsin Lin</a>"
+                ],
+                "photo_reference": "CmRaAAAA2x_e4SkMAimwCyMeTwhKlz5fekuuJ5Q5Sf2qngkysM_dDtGsRObC1fw1DumJ2YJ24NOnn4ODigCOM7j4WbMTcudtnHKlyQHOivrXR1emJPmfhnjAMcUo5qwEixlKsLaEEhDp2nGKmdpxvUyu3P_f5XOsGhSH1GfZYh59J8GKvO5ugyO38yU6eA",
+                "width": 960
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.751901,
+                "lng": 100.5318061
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75329307989272,
+                    "lng": 100.5331426798927
+                },
+                "southwest": {
+                    "lat": 13.75059342010728,
+                    "lng": 100.5304430201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJpUIkfcue4jARM1o9Ilvwutc"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Big Dog Cafe",
+        "formatted_address": "82 Ratchadaphisek Rd, Huai Khwang, Bangkok 10310, Thailand",
+        "rating": "4.2",
+        "user_ratings_total": 763,
+        "photos": [
+            {
+                "height": 640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117786270166171768674\">Big Dog Cafe</a>"
+                ],
+                "photo_reference": "CmRaAAAAtMWJv35oIlsMHuAuTKzoPGsZywFtTQ5wvTK8s2RB9RlAPo4lq6rZCDXK4V-v1D9lX5xWuVCffA08FzhLs3Q763QiECFkNY-fuOiomjhPTo-nkJel1fkoDibH80ZgcuuZEhBOe19iWKJV-xR1KobCf9sqGhQ4-oVbtNANfYpebBPWbnU3dNlUlA",
+                "width": 960
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7673615,
+                "lng": 100.5717042
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.76881212989272,
+                    "lng": 100.5729113298927
+                },
+                "southwest": {
+                    "lat": 13.76611247010728,
+                    "lng": 100.5702116701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJuyVj-bSd4jAR9LAVNymq-8Q"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Caf\u00e9 Tartine",
+        "formatted_address": "65 2 Witthayu Rd, Lumphini, Pathum Wan District, Bangkok 10330, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 745,
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100362042259075087021\">Supattra L</a>"
+                ],
+                "photo_reference": "CmRaAAAAAkGaqC0q7KoDSqw4n0UzJ0Zya7nM0HMWPLXIAxwWLJ-q8vDb3Pvj_sAO3wym3NbOq5YrbZZ72SOBGXP2qLMcoX2XxobhBezv6hBVA58xwiiu_TyhFvkfUB2XMMrnfgj4EhCF5tPFiQQRj1GOyCoY70y_GhQInkHjps31dViD2G27kzHPIGmFBA",
+                "width": 4608
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7419341,
+                "lng": 100.5496198
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74327472989272,
+                    "lng": 100.5510175298927
+                },
+                "southwest": {
+                    "lat": 13.74057507010728,
+                    "lng": 100.5483178701073
+                }
+            }
+        },
+        "types": [
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJGeftrN2e4jARJNTfjce9KBQ"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Dog in Town Ekkamai",
+        "formatted_address": "16/1 Ekkamai 6 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 661,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117230865712246286696\">Y Albert</a>"
+                ],
+                "photo_reference": "CmRaAAAAIPWcuW52DK1yy2Hku_VR1U_1S1aFdYFJhEEMW2ZIYOJGKwUnQ9IuX8X4Jkg7x0Xmi_JUn2OTOWVZPN0anCDsKM_Jt2P05DDXZjLuHgBZ61UXyuF07fzgCYMGkM34JMrQEhBBWMoueYma595j-Fz4WEdFGhQm_va1Xyg-6Gk3lIfw_IlQC7ZSyQ",
+                "width": 5376
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7260646,
+                "lng": 100.5877363
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72740582989272,
+                    "lng": 100.5889496298927
+                },
+                "southwest": {
+                    "lat": 13.72470617010728,
+                    "lng": 100.5862499701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJI1-ojrGf4jARE-PUT4zuZB0"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Floral Cafe' at Napasorn",
+        "formatted_address": "67 Chakkraphet Rd, Khwaeng Wang Burapha Phirom, Khet Phra Nakhon, Krung Thep Maha Nakhon 10200, Thailand",
+        "rating": "4.6",
+        "user_ratings_total": 561,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100439679323000267798\">Christopher Shawn Washington</a>"
+                ],
+                "photo_reference": "CmRaAAAAoZbJiwtovRoy_JBkpl38eJi6MdzncNfC4_Frv6JEgHkGs_1EJ_8bUdsGSSKMJmghKk_5Tjts1Jo607_HVkxWDIh4y2TFtdQ5av62ogryav2AkNUZ6PUzO6w0WzyV_ukzEhD_mHlSPp3z4cc_wNS7wJxQGhQp9_j_SOb_nIN4oCfGlmeeveCZmw",
+                "width": 3024
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7423818,
+                "lng": 100.4967332
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74363507989272,
+                    "lng": 100.4980480798927
+                },
+                "southwest": {
+                    "lat": 13.74093542010728,
+                    "lng": 100.4953484201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJr0_8WhuZ4jARkLSG8nhL7n8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Featherstone Bistro Cafe & Lifestyle Shop",
+        "formatted_address": "60 Ekkamai 12 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.6",
+        "user_ratings_total": 542,
+        "photos": [
+            {
+                "height": 2048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115506165582861877286\">aatnb kim</a>"
+                ],
+                "photo_reference": "CmRaAAAA2NwLx7N1KA9YmuhDGsfaw4phRDoIpl3dsqXRhR8SYFz13qtkYjyrlq-dOd8KTj7WXamv3d-gLYlFtYK0UlW_enXuyVQcCx99nps4k_GQqod-Wymoa2e8-oAJg5HP0HE3EhDMAwaEYSBqcjZMYxo3S7cjGhRZM34BN39uXTvm4WKIQs8MmTFS0w",
+                "width": 1536
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7297797,
+                "lng": 100.5930306
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73118407989272,
+                    "lng": 100.5943810798927
+                },
+                "southwest": {
+                    "lat": 13.72848442010728,
+                    "lng": 100.5916814201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJyZMyxEie4jARAxudnxGQbTA"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Ink & Lion",
+        "formatted_address": "1, 7 Ekkamai 2 Alley, Phra Khanong Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.5",
+        "user_ratings_total": 519,
+        "photos": [
+            {
+                "height": 2988,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112588893701201828067\">\u5c0f\u5c71\u5c06\u5e73</a>"
+                ],
+                "photo_reference": "CmRaAAAAh2khSRJiesHyaxrzm6RO25KWAfrgoOV1mobHUsRKIfBunnBw_eSLLwjWPbEm4JNadrrMaa_Csro0q87ev6SMFB1zysBgYZIXU_-VtACoU9qzhiRmtdMtBlGcv_hu97inEhCj3Bcut1WlR5mh6RVb7JLtGhRhgpCXnYbEShNEf5azy3VfZIfCHQ",
+                "width": 5312
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7235766,
+                "lng": 100.585021
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72492587989272,
+                    "lng": 100.5863481298927
+                },
+                "southwest": {
+                    "lat": 13.72222622010728,
+                    "lng": 100.5836484701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ22MGza-f4jARbxOuZ7kJwO0"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Brainwake Caf\u00e9",
+        "formatted_address": "27/1 Sukhumvit 33 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 464,
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110699530017291965752\">Hyunsung Park</a>"
+                ],
+                "photo_reference": "CmRaAAAAE3r9v7_YiJOmC4hjxD4vB2b9UUyarUTwPLJgIt9FZsluryawIvs1b0JayNmdLAV3ravRixweMf5gwUT4x4UCCzZHC5KfepmnEONBbgk9z2xpV1aKNLT6wv8EzB_7dcCbEhDXw9_Wst85vwb6UdZYfP8PGhRNjlSqSqTrPk2l-Y7PNIUXmhxzow",
+                "width": 4608
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7376437,
+                "lng": 100.5678643
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73899027989272,
+                    "lng": 100.5692417298927
+                },
+                "southwest": {
+                    "lat": 13.73629062010728,
+                    "lng": 100.5665420701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJOb-FbPye4jARwt4hvld8Oig"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Roots at Thong lor",
+        "formatted_address": "Market Floor theCOMMONS Thonglor Rd, Klongtan Nue Watthana, Bangkok 10110, Thailand",
+        "rating": "4.5",
+        "user_ratings_total": 441,
+        "photos": [
+            {
+                "height": 2340,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108725481523411008610\">HAPPY LEE</a>"
+                ],
+                "photo_reference": "CmRaAAAAkOqz7MSO6Kdv4KO83XwZ4QTcoE2wy7qo2c28vZFGhdc5hWSso2gZ_y-VyMwn9r_GYdFl6En255saJTYk-qPHuSFAmurWXBZs_xsnauI7nmQ1joc4TopranMMwhu76IsXEhC7KKHzaUrpgR-y_wuj64dXGhQH2hamxZ5cieCV79r6TL1WNuCp9Q",
+                "width": 4160
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7351458,
+                "lng": 100.5822094
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73654157989272,
+                    "lng": 100.5835756298927
+                },
+                "southwest": {
+                    "lat": 13.73384192010728,
+                    "lng": 100.5808759701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJnRMrCE2e4jARPtUgrY9zXyI"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "\u0e44\u0e25-\u0e1a\u0e23\u0e32-\u0e23\u0e35\u0e48",
+        "formatted_address": "Rama IX Soi 41, Suan Luang, Bangkok 10250, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 282,
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110663353833773075304\">Bee Love</a>"
+                ],
+                "photo_reference": "CmRaAAAA62YtbF2H-S2UngafXGp0Z_z2W5pHUvtq6onqXsq4KzH0FKTfPGS3RYqFvBQ-numLDoeNnSZEVVqLANKwKdPqUppwrQTslcSaL-hm6oMr5OZ7tT_qLggs8D7KlftkVqXMEhA9Gvws6sAzGXOwdPzbBwM1GhS95_HYs3OnD9RMWFAt6iEKTFE3RA",
+                "width": 3264
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7418362,
+                "lng": 100.6261158
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74316952989272,
+                    "lng": 100.6273817298927
+                },
+                "southwest": {
+                    "lat": 13.74046987010728,
+                    "lng": 100.6246820701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJf22Lp9BhHTERI8qaa2M-IvQ"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "(un)FASHION Vintage Collection",
+        "formatted_address": "3 Ekkamai 10 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.2",
+        "user_ratings_total": 275,
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112243298973048895709\">punviga vimooktalop</a>"
+                ],
+                "photo_reference": "CmRaAAAAFP51dlIh1_FD48KMDLnBhQiHdfTRfcRX3trC5QtJlmUh_4wNDDq22dsEuEGrhiDYydy657gR5-LvpqL5RFYK84uNu92H93UesltvhiN6Rfp47o9wM3Uef-0uuWKZ8lNWEhAIfiJLCrtVbDvekPCCoBpPGhRIQcRFCw3g4wWBfDhunIsyUsgDzQ",
+                "width": 1920
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7293949,
+                "lng": 100.5860762
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73072022989272,
+                    "lng": 100.5874568298927
+                },
+                "southwest": {
+                    "lat": 13.72802057010728,
+                    "lng": 100.5847571701073
+                }
+            }
+        },
+        "types": [
+            "shoe_store",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJbT6nf7Kf4jARnE0cAYssMl0"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Rabbito Cafe",
+        "formatted_address": "29-29/1 \u0e0b\u0e2d\u0e22 \u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17 101/1 \u0e16\u0e19\u0e19 \u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17 101/1 \u0e42\u0e04\u0e23\u0e07 \u0e14\u0e34 \u0e40\u0e2d \u0e1f \u0e40\u0e27\u0e2d\u0e23\u0e4c \u0e23\u0e35\u0e48 \u0e1a\u0e32\u0e07\u0e08\u0e32\u0e01 \u0e1e\u0e23\u0e30\u0e42\u0e02\u0e19\u0e07 Bangkok 10260, Thailand",
+        "rating": "4.5",
+        "user_ratings_total": 271,
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118017479952935647958\">firezero Wong</a>"
+                ],
+                "photo_reference": "CmRaAAAA4mxmXor8D2M8WFm4F12oT9_p2m0UMtovbtdTHTMB3OgrLwXSlQ3ltzGFC5UeueM8UGtfphnVxe8O8lswoRSgF74URkxCvPaTiAq0MRyYHwPgUedqWtMtXi-CrFUoox7PEhAbP6ohojx14z4PFDSUS-pGGhR-yklsYQqpOMYPbz2pqSaCNWZ07g",
+                "width": 3264
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.6846412,
+                "lng": 100.6123631
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.68604997989272,
+                    "lng": 100.6136878298927
+                },
+                "southwest": {
+                    "lat": 13.68335032010728,
+                    "lng": 100.6109881701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ9X-ZbwKg4jARIbLS5GTFqvM"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Old Town Cafe Bangkok",
+        "formatted_address": "Wang Burapha Phirom, Phra Nakhon, Bangkok 10200, Thailand",
+        "rating": "4.5",
+        "user_ratings_total": 224,
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112922167701334433227\">PYL PYL</a>"
+                ],
+                "photo_reference": "CmRaAAAAXNVBVCSINGoPjLwdieFrbWAW2IDS3M3XzoR2RQHpwmavV7ywp8mwrj5ck_gWgC3aaD-M74KsRG7ix-MRydqTUN3GRROUs2q0PLKWTme0AkSS5Q7aJgeiwKx_uAlFlk41EhC-QusNVjoXeMb6URQ3cPYmGhSqJB1e2Gne9XKJr0MO9LTsBPhgDQ",
+                "width": 2448
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7475587,
+                "lng": 100.4975799
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74890312989272,
+                    "lng": 100.4990222798927
+                },
+                "southwest": {
+                    "lat": 13.74620347010728,
+                    "lng": 100.4963226201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "bakery",
+            "meal_takeaway",
+            "home_goods_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJDcbxdRCZ4jARHD37nUZJbHQ"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Goodfellas Thong Lo Cafe",
+        "formatted_address": "1039-1041, Sukhumwit 55 (main street), Klongton Nuei, Wattana, Bangkok 10110, Thailand",
+        "rating": "4.6",
+        "user_ratings_total": 205,
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106677877698246802407\">Nobuko Shimamoto</a>"
+                ],
+                "photo_reference": "CmRaAAAAwhX9BWeIalfwmzUlbq-or4y38EvI41syRUeLbcAf0J3sD8qY44Ytgx7HvUu-gkOfLgV7Lh5xwJW9GEPijTQqfW0u-pzsGSPaO5A2rFpbXAAuEMWijvo3Lgb-gnEoe02bEhAAjBP0mthN8-4dnfpB16UJGhTpoimvhodPriwbm7AkCoetpCJYkQ",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7242374,
+                "lng": 100.5788738
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72558722989272,
+                    "lng": 100.5802236298927
+                },
+                "southwest": {
+                    "lat": 13.72288757010728,
+                    "lng": 100.5775239701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJkwoqIKmf4jAR1j7i-klUCpg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Oh La La Cafe",
+        "formatted_address": "200/003 \u0e16\u0e19\u0e19 \u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17 50 Phra Khanong, Khlong Toei, Bangkok 10260, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 195,
+        "photos": [
+            {
+                "height": 832,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110767493054444748675\">Oh La La Cafe</a>"
+                ],
+                "photo_reference": "CmRaAAAAnH3C3S9hFim7-vzx7TUddUr7EybLN2ETkSWuICKGMjrf8VFPGzYqrCZNH3DT8hzylO-vCJ5suskEsmfxt_beiywSSphwx3AFdT0drD3jU7equwh_wSTjpRJCXIyReL_-EhBZzPmbbqhwXy87y4FZbmMAGhSr3FJCzpjtTwxzCqDcYawVBsHamQ",
+                "width": 1248
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.705876,
+                "lng": 100.598491
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.70715567989272,
+                    "lng": 100.5998747298927
+                },
+                "southwest": {
+                    "lat": 13.70445602010728,
+                    "lng": 100.5971750701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJUVswIOuf4jARPspodtbB-D0"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "THIRTY 3 CAFE",
+        "formatted_address": "33 Phetchaburi Alley, Makkasan, Ratchathewi, Bangkok 10400, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 193,
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101176433286334142316\">Suniti Tour &amp; Travels - Nainital</a>"
+                ],
+                "photo_reference": "CmRaAAAAUBsREem_Ftpq1W-cPVxfRdSMyi3xncVaVntES_z0mSxrgTm28tSdGeS5jtDpBHAmfH5oRl2JSqjXKzA6PkySkOOPLuRYMPyF4EKDX9htqKJaKuRJUaa2kw0Mikx1d_kuEhBPV3uf7MiRbVeD8HjjjuYwGhRJWR2cJttGtLYmkaslN1dwWuY1KQ",
+                "width": 4608
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7526107,
+                "lng": 100.5464566
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75391392989272,
+                    "lng": 100.5479679798927
+                },
+                "southwest": {
+                    "lat": 13.75121427010728,
+                    "lng": 100.5452683201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ381jNcGe4jARqyvuboJOr3w"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Luka Moto",
+        "formatted_address": "The Taste Thonglor, 235 Soi 11, Thonglor Rd, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 193,
+        "photos": [
+            {
+                "height": 2945,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106198363291758062631\">Sukhum Truengtrachitkul</a>"
+                ],
+                "photo_reference": "CmRaAAAAE1oFo62VSINBkmsp-62VsXCAWVw05eJnuRfQ1wJDqLkYNtDgWQilqKQl9FkDBxN4yYtxJMocBzDaZZjXhvb2R32YJsAN5FS69lA0BBTjMCbzmv-RftRrYvTpncuDj0AuEhAWfQoujNG46Tp7NbT5nfDCGhSR_kWf3Kwo5GBZSJWYOav4I6p9ug",
+                "width": 3927
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7327477,
+                "lng": 100.5818482
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73405307989272,
+                    "lng": 100.5830956298927
+                },
+                "southwest": {
+                    "lat": 13.73135342010728,
+                    "lng": 100.5803959701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJVa56NFOe4jARr_2dgI_k0B4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "WTF Gallery and Caf\u00e9",
+        "formatted_address": "7 Sukhumvit 51 Alley, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.5",
+        "user_ratings_total": 185,
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100078288914376417794\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAsbNesyUFsXQSfLJOE3kUvixb9bXjLtuT2fwCJLZ6Hg0f8hMC5Ao1kAFx1DXMFQbmHC5jDRIGFcTwChP4bi4FdUu8RRfA0rVR8f4dVGGWLpEUZIVLPXaoE1CTeZgn5faHEhDCp3Pw-CgPmDAWf37WBXi9GhRo77Oin9sYhPMvc9TwbrTCVmv_-w",
+                "width": 1280
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7265626,
+                "lng": 100.5763923
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72790492989272,
+                    "lng": 100.5777288798927
+                },
+                "southwest": {
+                    "lat": 13.72520527010728,
+                    "lng": 100.5750292201073
+                }
+            }
+        },
+        "types": [
+            "art_gallery",
+            "cafe",
+            "bar",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJCUQekqmf4jARDtKNX5EfhcE"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Fill In The Blank",
+        "formatted_address": "28/10 \u0e0b\u0e2d\u0e22 \u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17 61 Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 155,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110747988535195521177\">Phu Ngon Hnin</a>"
+                ],
+                "photo_reference": "CmRaAAAAWn2NmEuqE6ruwIiieSvDrkPA0yhK8k2U2uwWoX-HkhaL9JkX2hzS1CZIrHv6c0KRwTzkONjkikZo-ylFzpy57tai73hS8z2SovCfhBPk7zP2Kxc4xjDmdpUgwhcH4vp2EhAlXCWf06htIubx5uYjsgkBGhRpECOlfNfhYXSeYhkG8B1kytArqA",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7241913,
+                "lng": 100.5835795
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72555727989272,
+                    "lng": 100.5848116298927
+                },
+                "southwest": {
+                    "lat": 13.72285762010728,
+                    "lng": 100.5821119701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJTwd5Ua6f4jAR9Y1VHG00N1w"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "FlowerPot Cafe' Ramkhamhaeng 21 Bangkok",
+        "formatted_address": "269/2, 269/2 \u0e23\u0e32\u0e21\u0e04\u0e33\u0e41\u0e2b\u0e07 Phlabphla, Wang Thonglang, Bangkok 10312, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 147,
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105912403554389180472\">Ploywan Prangthong</a>"
+                ],
+                "photo_reference": "CmRaAAAAbbp5n7canMUue2wpcnXZUrZFsQyq2DKjVllthMUJQjRXVrTfyJFqEtz0hIs0d7QwMV1xkl6Tc5QCypW53fHNrcrb1E3iI1ErKk16vf039fq56P3sd1hKf65lt1myeL72EhBEmjpMwDvQ8z1DZAWXVp1eGhRzfY8x0JkpkncgqDdP934kKI7X8g",
+                "width": 720
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.760729,
+                "lng": 100.6035028
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.76211817989272,
+                    "lng": 100.6048865298927
+                },
+                "southwest": {
+                    "lat": 13.75941852010728,
+                    "lng": 100.6021868701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJKVnmTxGe4jARMSspfOxyILI"
+    },
+    {
+        "business_status": "CLOSED_TEMPORARILY",
+        "name": "Storyline Cafe",
+        "formatted_address": "3/3 Soi Promsri 1, Sukhumvit 39, Khlong Tan Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.0",
+        "user_ratings_total": 136,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113222082581871315614\">\u5409\u539f\u3048\u308a\u304b</a>"
+                ],
+                "photo_reference": "CmRaAAAAPIw8HHper_UeSvfGei-9ihi6ZWM3q07V1k5H77FSHMCM6Z60OAhp0XNbsZJpULUlCCVquYF0TkSu6GNHi-rDpUArzjH2Wug1CldQnK-kNOai8Xghz1cqMCrpZW-XON4aEhAWAOsIKWbG0Id8GUoFkDOSGhQI5v02HVA4bxk1C7pvuaSSdYcfVw",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7365143,
+                "lng": 100.5730773
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73782042989272,
+                    "lng": 100.5744308798927
+                },
+                "southwest": {
+                    "lat": 13.73512077010728,
+                    "lng": 100.5717312201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJ22uJEf-e4jARu1iuD-u1JHo"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Craft Cafe",
+        "formatted_address": "Thailand, Bangkok, Klongtoey 1042 Soi Sukhumvit 44/2 Sukhumvit Rd",
+        "rating": "4.1",
+        "user_ratings_total": 135,
+        "photos": [
+            {
+                "height": 3480,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107760509904722405207\">Matthew Shelley</a>"
+                ],
+                "photo_reference": "CmRaAAAA50MeB-SWyvRaZhSObFYXN0khOWgCNBtUj8d1oPEh3AgvTxQTxKjj7XfL--ow7g8FOA5qumverOgTALD_3sM08LtKKb_g4MfJVELrxYCBg1qHC-6jhyzMlFImryINcSu-EhDtjRvXVFi7-LGGoJd1GWv7GhTIp-YcUHMYOsES8GhLCbZAaOdg5g",
+                "width": 4640
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7161284,
+                "lng": 100.5897223
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.71749382989272,
+                    "lng": 100.5910837298927
+                },
+                "southwest": {
+                    "lat": 13.71479417010728,
+                    "lng": 100.5883840701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ05mTVbmf4jARIduvhwcq4nM"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "S-Cafe'",
+        "formatted_address": "\u0e0b\u0e2d\u0e22 \u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21\u0e40\u0e01\u0e49\u0e32 4 \u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21\u0e40\u0e01\u0e49\u0e32 Suan Luang, Bangkok, Thailand",
+        "rating": "4.6",
+        "user_ratings_total": 118,
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115340720545696964392\">Jitrin Virojsailee</a>"
+                ],
+                "photo_reference": "CmRaAAAA838KLvmf0ptA53N3UVVqB0No9OOpve2lZhvRxJgdQzxxxMzl4OaUZRDF7e8Kn46s1QK7jFbPXoW_AXule5Fh-UB0w6496OXyKicqRfk0Ag3fT5sgIgBUuNtuCpbeNdIREhCC-1Aibxo7RfOl7v0zvsjtGhRzG49EkSeRGrkdakGcbcbnAhuMJA",
+                "width": 3968
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7448663,
+                "lng": 100.6242457
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74622247989272,
+                    "lng": 100.6256281298927
+                },
+                "southwest": {
+                    "lat": 13.74352282010728,
+                    "lng": 100.6229284701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJd2nmndlhHTERyt8LZdMV4lI"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Pooltime cafe",
+        "formatted_address": "Ramkhamhaeng 110 Alley, Khwaeng Saphan Sung, Saphan Sung, Bangkok 10240, Thailand",
+        "rating": "4.1",
+        "user_ratings_total": 113,
+        "photos": [
+            {
+                "height": 2880,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104658918419134607489\">alexischeong</a>"
+                ],
+                "photo_reference": "CmRaAAAAthrsdG-g321CNgm6NSOQJbxLPf7kFr6Hl3lyW19XCcTYW3tfMrX0AJ_stfm1GhJW3bKpNffDcP0vMcOLrvQuPUVhGokPqVOdqM1YhAX6oWeqadc3jRZoWpOhlTNavaOkEhDqrrNJpUiKOGvvPOgwvsG1GhThj5WGWF7E0vJ8tAcb1gJB48WdGQ",
+                "width": 2160
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7558782,
+                "lng": 100.6734805
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75719942989272,
+                    "lng": 100.6748876798927
+                },
+                "southwest": {
+                    "lat": 13.75449977010728,
+                    "lng": 100.6721880201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJCwLWJUye4jAR2lL6FIEFTDg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Thonglor Travellers Hostel and Cafe\u2019",
+        "formatted_address": "1059 Sukhumvit Road, Klongton Nua, Wattana, Bangkok 10260, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 109,
+        "photos": [
+            {
+                "height": 1574,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102930764608622637981\">Thonglo Travellers Hostel and Cafe</a>"
+                ],
+                "photo_reference": "CmRaAAAA-uhtxZvtHe78h55hfE8w396kvNh9zNBB8Z5Ue_UWtk8TOy_UlW-n2nXTX8-j7Spin0D_2aqyME3hVw1CpuSOWQEWZtiaChy-3o0BojIrDm5eK-kZzNrsK6eGclWjlGcdEhDJMswRky8rqy0_JRI3Z_1_GhT_HCJosW88kHHQb1FRl5NdL3Z6ww",
+                "width": 2048
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7239782,
+                "lng": 100.5791537
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72532802989272,
+                    "lng": 100.5805035298927
+                },
+                "southwest": {
+                    "lat": 13.72262837010728,
+                    "lng": 100.5778038701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "lodging",
+            "bar",
+            "liquor_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJtapM36if4jARQAChB5CzmYw"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Marble cafe'",
+        "formatted_address": "Suan Luang, Bangkok 10250, Thailand",
+        "rating": "4.0",
+        "user_ratings_total": 93,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117020412767421757527\">Sayam Sakunasingha</a>"
+                ],
+                "photo_reference": "CmRaAAAANJq9GWdSl4K-vPf68XW6xfNd096TbpJFMV_e-TQuvDiQ9ycNGAU5FYWIGpKpIb6ayzhdvKbC7ia5BIDckuErpKrdZBGslHLYOjeuEy6XEg1mUk5FQZeUwrBGN2J-LzT0EhD3Nrt0D4KGPiCpRJa8iTfKGhR6ITQo40nUW5B1D_reVwwh8D3sIg",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7386074,
+                "lng": 100.6415446
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73997927989272,
+                    "lng": 100.6429739298927
+                },
+                "southwest": {
+                    "lat": 13.73727962010728,
+                    "lng": 100.6402742701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ1_2RiK9hHTERv_ywe22xxf4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Hario Cafe Bangkok",
+        "formatted_address": "291 Chok Chai 4 Rd, Lat Phrao, Bangkok 10230, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 93,
+        "photos": [
+            {
+                "height": 1960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112759597292295769393\">Supanee Lertchaiyalit</a>"
+                ],
+                "photo_reference": "CmRZAAAAyr3BO28NobMAsVg7lpiH9h0xs2IIFoalgpb7URLx-FgLNhpF9pxuvNcI1fnN9pUvuoBqwnXgRIj570lpYqBz1pm7Ld1DfZ6LSRGkQXbwxIM-qx-kbeswDhFLaoT5rtpNEhBUuHPHtjKNyC5Dfrs_eg2LGhR36bTwENyLPfvVmtvmtE7930ERDQ",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.8104179,
+                "lng": 100.5960813
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.81176942989272,
+                    "lng": 100.5975141798927
+                },
+                "southwest": {
+                    "lat": 13.80906977010727,
+                    "lng": 100.5948145201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJY4aCSw-d4jARghPS-sf4j4k"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "The New Yorker Cafe",
+        "formatted_address": "261/24 Sukhumvit Soi, 22 Sukhumvit Rd, Khlong Toei, Bangkok 10110, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 87,
+        "photos": [
+            {
+                "height": 4000,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111410176895908421933\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAkhaFVRR2qhbqwmE2evBZpXjrheOy3BYSOfxS7GjrjXY5_gvgU3bCFVsk0MxHLm99ibm2JiIWqiPFTpIBsKzXK8fSYsyj0GgYZwWhTYhbCxK_3U4fjX0daB-4Afx95T07EhD6yWumORo7Uv9u7YMdhNBQGhQTmDyVT_6iz9IklnFGoKwawIIpwA",
+                "width": 6000
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7295474,
+                "lng": 100.5657184
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73093237989272,
+                    "lng": 100.5670683798927
+                },
+                "southwest": {
+                    "lat": 13.72823272010728,
+                    "lng": 100.5643687201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJlSXH4ASf4jARh0HBZvyJrvk"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Mermaid Castle Cafe",
+        "formatted_address": "236 Siam Square Soi 2, Khwaeng Pathum Wan, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+        "rating": "2.8",
+        "user_ratings_total": 85,
+        "photos": [
+            {
+                "height": 3072,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118224345488054977521\">angelserenity lopez</a>"
+                ],
+                "photo_reference": "CmRaAAAAdXREIriglFRADdQ4oV5WurFMJRE-9Ujv_RGpisaOmex8Wh5Zm4K_k0pP7ablwu-eZY_cjKdiQsVpABETpfWjU3V3QJxDzhFnzeDD6cWOEPcs8dODURM-FnCUCB3vzFC_EhBqygL7R3LvX6a4vB9ecPmPGhS561rhBERKUClwU65gW0wgV-kdyg",
+                "width": 4096
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7455228,
+                "lng": 100.5321597
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74687332989272,
+                    "lng": 100.5335050798927
+                },
+                "southwest": {
+                    "lat": 13.74417367010728,
+                    "lng": 100.5308054201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJJ4PLhtKe4jARzICYDsx2mqc"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Craft Studio & Cafe",
+        "formatted_address": "1213/51 Thanon Si Vara, Phlabphla, Wang Thonglang, Bangkok 10310, Thailand",
+        "rating": "4.2",
+        "user_ratings_total": 84,
+        "photos": [
+            {
+                "height": 1108,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108678228516594847792\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAsCurUg_5bMqRI3kff3OopdPqY9ObzejjNsYRAkQIGMRM6lJeEbsg2H4o6wMF1UgSskF2CHp_CSnZPFbaapPbjaPUOdEXZnb911BJNlqyDd5y104N57sBuY9yJmEWNY1rEhA1Gj5jXhu6f2nDCH85ipbrGhTq1gSTJ598x5xMbEnLipfm4tgrPg",
+                "width": 1478
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7721211,
+                "lng": 100.6113203
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.77343517989272,
+                    "lng": 100.6127085298927
+                },
+                "southwest": {
+                    "lat": 13.77073552010728,
+                    "lng": 100.6100088701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJpceXiQae4jARMVoMZ4JsfT8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Roti Bear : roti fusion cafe",
+        "formatted_address": "270 \u0e16. \u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 Wang Thonglang, Bangkok 10310, Thailand",
+        "rating": "4.0",
+        "user_ratings_total": 79,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117020412767421757527\">Sayam Sakunasingha</a>"
+                ],
+                "photo_reference": "CmRaAAAAoOcVJn4YEIAyDb_iLK-sErAPZ3oadz2EXWGF6NfuAvTMnrAgdMtRIxDKOss8CfMM1SaELFEml7eB7uCEXX8-ZdK-s_nOhDA0Tey6qME50tY8KskMUnFll8_VxHkBeusmEhDcxCVdz0UqOsExhSM1Xf34GhSylE0gGKvRg2JHsiG3cy7dO-CG_g",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7730661,
+                "lng": 100.6096738
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.77442482989272,
+                    "lng": 100.6110132798927
+                },
+                "southwest": {
+                    "lat": 13.77172517010728,
+                    "lng": 100.6083136201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ63Mqo6uf4jARlbiZy7_qYjQ"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Brew Lab Coffee",
+        "formatted_address": "Suan Luang, Bangkok 10250, Thailand",
+        "rating": "4.7",
+        "user_ratings_total": 73,
+        "photos": [
+            {
+                "height": 2976,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101548705707739971397\">Nanwarit 38</a>"
+                ],
+                "photo_reference": "CmRaAAAAXq246jUw8rGmSJ0EIshiq5lQqtN0DdBcZLSgr-PV7xkDCuTKeJgm9v_fv9igTKKz07rnCdqA4uMQZVEq2D8B07hVX7PD3DrWIYLPt1qEZpvb-xQ2Od9qQspBl-wxZqkoEhDOWvA0NcFtVtXNza2rpNBvGhSb7rZqRUoki4br-8JAMC-1jxeigw",
+                "width": 3968
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7426848,
+                "lng": 100.6244511
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74400092989272,
+                    "lng": 100.6258080298927
+                },
+                "southwest": {
+                    "lat": 13.74130127010728,
+                    "lng": 100.6231083701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ9eDzMnBhHTERbD0mJyrMjwg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "KIMMIK",
+        "formatted_address": "\u0e44\u0e17\u0e22\u0e23\u0e07\u0e04\u0e4c\u0e17\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c \u0e2d\u0e32\u0e04\u0e32\u0e23 B 1350/720, \u0e0a\u0e31\u0e49\u0e19 1 Phatthanakan Rd, Suan Luang, Bangkok 10250, Thailand",
+        "rating": "4.7",
+        "user_ratings_total": 73,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113561944831190163644\">Sajapong Rhienmora</a>"
+                ],
+                "photo_reference": "CmRaAAAAjO1nPQeEX3rjeGM_oU9AkprKpqDLjkjyE8LRfxc9lOpNBwD4HhJH5aEsuFzgMP-LApm9bNc_a7rfOL5jFQT1wpgYhIHAgjRyrm8d4lvoJ1XnCfulQgO64Ai6c-xlVH36EhDskZeOLQF1P1WVoJzCnpV0GhQpAY3bTwiDdnAyK2_K8sQA6DlpQw",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7365644,
+                "lng": 100.6236659
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73790482989272,
+                    "lng": 100.6250005298927
+                },
+                "southwest": {
+                    "lat": 13.73520517010728,
+                    "lng": 100.6223008701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "bakery",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJoXP8ntZhHTERL5272dNk0ZU"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Yada Cafe",
+        "formatted_address": "260 Soi Sukhumvit, 77 On Nut Rd, Khwaeng On Out, Suan Luang, Bangkok 10250, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 68,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110738575833724566542\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAACclQoNIsK6MHa6mIYQsK65uJoT7dYojVEFCDQMmtIu8UjMw2umSCE4_AkDvFdCl0xTzzT2I6zR1zO2CMwiE84iQuazi7lyjh1VgARVHqmzgj0rmQDCi60SrBzLLvboacEhCbitU62m7GapNJ07ZzgslJGhR51oaGxuo2hsm2c4jsFavmARLo4w",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7110783,
+                "lng": 100.6033845
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.71245437989272,
+                    "lng": 100.6047168298927
+                },
+                "southwest": {
+                    "lat": 13.70975472010728,
+                    "lng": 100.6020171701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJbZw_LsKf4jAR017PSVceaXc"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Crazy About Cafe'",
+        "formatted_address": "3, Phra Khanong, Khlong Toei, Bangkok 10110, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 68,
+        "photos": [
+            {
+                "height": 1333,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112922828639676808815\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAtNghSoRwVHIj9p1q25Td2XN8cTSPNbUj-nrGmEgXkMgqX44m5Q_ewGs8YOHGirH17felTbC_wre7z4BY_vLcS_ILVtTrXtYFzUDpxmo8ne1cZ4iaza4IXyDXfJYkRmvyEhCroOHdq-43J0s-LpxLepq3GhQXBVcIHz_5-_Np-8LGhnEPuhKAzg",
+                "width": 2000
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.720181,
+                "lng": 100.5839184
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.72157427989272,
+                    "lng": 100.5853044298927
+                },
+                "southwest": {
+                    "lat": 13.71887462010728,
+                    "lng": 100.5826047701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJFRkDZqWf4jARdWfptQqrzT8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Cafe at Ease",
+        "formatted_address": "Kasem San 2 Alley, Wang Mai, Pathum Wan District, Bangkok 10330, Thailand",
+        "rating": "4.3",
+        "user_ratings_total": 67,
+        "photos": [
+            {
+                "height": 3006,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110129282121919155191\">Pichaya Prasertsung</a>"
+                ],
+                "photo_reference": "CmRaAAAArFEUfT4ChymcHHF2bzgPIBe2Z8XgahTl4zOG0wQ9J_EVoVI5Xl5Lh8D5ViaHfkaxsTxYmZzo4ajYZgwQ0H6zzomZFIjBwex1WfUxZrAib49AZyK-70BvlY2OY54etFlmEhDwKdQLr8eAd-3GEq-R7qFpGhRci7tkVHnuHIXXRnfNGVA8dnoyWA",
+                "width": 5344
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.747853,
+                "lng": 100.5284982
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74920267989272,
+                    "lng": 100.5298488298927
+                },
+                "southwest": {
+                    "lat": 13.74650302010728,
+                    "lng": 100.5271491701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJvxM5wTKZ4jARLVR9sVFzvQI"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Cafferino",
+        "formatted_address": "259 The Mulberry Hotel Bangkok, Khaosan Rd, 10200, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 54,
+        "photos": [
+            {
+                "height": 2268,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101599329310897724898\">Wanthida Saiphim</a>"
+                ],
+                "photo_reference": "CmRaAAAAHiUu6bxfg72TI5N0SlSCHoDYPUqcSs5NLQUN5yRTKoXexDff1E5kHjheGk4RR88dVbmANbOsCz-A6dPSmqi95DaUh5_7wPqoFInRyvgVEEw8t9MH_z3uX3kzY_BXs14NEhDJicvf2KgFiDOpSbfRhxZaGhRp2E3YeqyXtcR_duw2ePhAJ0WsEQ",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7585096,
+                "lng": 100.4983782
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75980267989272,
+                    "lng": 100.4996987798927
+                },
+                "southwest": {
+                    "lat": 13.75710302010728,
+                    "lng": 100.4969991201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJM9wO0hKZ4jAR3S4YJhoL7KU"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Na Caf\u00e9 at Bangkok 1899",
+        "formatted_address": "134 Nakhon Sawan Rd, Wat Sommanat, Pom Prap Sattru Phai, Bangkok 10100, Thailand",
+        "rating": "4.1",
+        "user_ratings_total": 41,
+        "photos": [
+            {
+                "height": 2799,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101278300131345086916\">Veerayuth K</a>"
+                ],
+                "photo_reference": "CmRaAAAAhsMVoMRLSWPp_Qj8UcIfT19Q2d2wrkwkl5TprbWRxM_ESAbPFTBPzH5PL2Rq6FA_aNrgd_jD06V2Wjksrt6vgGgaVH0oN7NmqaqfZiko9YuoEBMTxMV-5rTUURSBSf6pEhBvQN68DEQV1dmT5x4lYZ-xGhQ1B332QCWNkTi49qWUyeOe8lYBow",
+                "width": 3788
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7574275,
+                "lng": 100.5082281
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75880892989272,
+                    "lng": 100.5095595798927
+                },
+                "southwest": {
+                    "lat": 13.75610927010728,
+                    "lng": 100.5068599201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJO7QJ3w2Z4jARkcURAmpt7tg"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Ri Cafe",
+        "formatted_address": "16/78 \u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e2718 \u0e41\u0e22\u0e013 \u0e16.\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 Lat Phrao 15 Alley, Chatuchak, Bangkok 10900, Thailand",
+        "rating": "4.8",
+        "user_ratings_total": 37,
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/112652608577031915235\">Raul Golubkov</a>"
+                ],
+                "photo_reference": "CmRaAAAAN1FHNJDWCst37OO0mhY-xiKQatl041xtxKZ1MDd3H0auJrlcey2OyJEGTI9sHvRzlwOi4NiA3QCKIAQrG4ADyQckswdiswnW34bweeINRl1GLMl3TiysBZVwzsd9H3EWEhBoxNc_vbIBcwLPVy2f0r5LGhRAD-H6Ew0_QShrBebq9PWenVaeyw",
+                "width": 1280
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.8032439,
+                "lng": 100.5707951
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.80456132989272,
+                    "lng": 100.5721469298927
+                },
+                "southwest": {
+                    "lat": 13.80186167010728,
+                    "lng": 100.5694472701073
+                }
+            }
+        },
+        "types": [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ1_nP4UWd4jARko6LqyTy_h4"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "ChikaLicious Cafe Bangkok",
+        "formatted_address": "3805 Rama IV Rd, Phra Khanong, Khlong Toei, Bangkok 10110, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 27,
+        "photos": [
+            {
+                "height": 3648,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108085302284864823823\">Sonia Gilbert</a>"
+                ],
+                "photo_reference": "CmRaAAAAMwsqN_rfglnMJzq-9SrkdNxA9mhxQEeRcjJjReS2w08hOUgPDemCJxhdSMezRmSHEstuYhmf_xlI8rz3xlf4A7QMLu4xwIBDuKZ73Z1mvvgcvrCulXxoJRC9m1imifsPEhC0PDlv_LlLXunjnY4hkzzTGhQqQCG-030QyxyP0e7E0Flc2x2B8Q",
+                "width": 2736
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7130911,
+                "lng": 100.5864763
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.71436057989272,
+                    "lng": 100.5878216298927
+                },
+                "southwest": {
+                    "lat": 13.71166092010728,
+                    "lng": 100.5851219701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ_2hkTAmf4jAR4OuzotsKNCE"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Wie Immer Bangkok",
+        "formatted_address": "416/ Thonglor 14, 55, 10 \u0e16\u0e19\u0e19 \u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17 Klongtoey, Vadhana, Bangkok 10110, Thailand",
+        "rating": "4.6",
+        "user_ratings_total": 23,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101053036156090309794\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAARMHP22E4O1qFUXIPsaW9awbUvaApkLu9EZOKszP_i4jHl5CevL9SY3THA2thO-qD044ClIzNt9L0w8uP_xzg7WGe9_NKVWk5CVkiXvOCrdfbLkh7HNVIo0XLLvlx2eA_EhBTcyCZvQvSCHjy_It6JBpVGhTQ8uhJrvS0OhRps7kK-Dedb11DRQ",
+                "width": 3024
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.733372,
+                "lng": 100.58302
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73476587989272,
+                    "lng": 100.5843789798927
+                },
+                "southwest": {
+                    "lat": 13.73206622010728,
+                    "lng": 100.5816793201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJdXZoJ1Oe4jAR2pKvTisEPMw"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Fusion Cafe' John",
+        "formatted_address": "27 Rama 9 Soi 43 Yeak 17, Suanluang, Bangkok 10250, Thailand",
+        "rating": "4.9",
+        "user_ratings_total": 18,
+        "photos": [
+            {
+                "height": 1046,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104094688845346287560\">Fusion Cafe&#39; John</a>"
+                ],
+                "photo_reference": "CmRaAAAAe7xFZFkQ5OdAPAXnDrX2SIkYIUZCWw0p4PqsXgmEG833Mm8dP2zPvfS9k2g7x3g3yKjMiar6LmXat0WBlfWa96BW-YiT0v-uyDVPnrTv1VV_kahdOkTTSDQln9wfFCs2EhDqRfsTZGHU2m9Fvsq99-SjGhTAX_bJRIQY4_SKZc-Na0uewMDCnA",
+                "width": 1565
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7439,
+                "lng": 100.63027
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74521427989272,
+                    "lng": 100.6316274298927
+                },
+                "southwest": {
+                    "lat": 13.74251462010728,
+                    "lng": 100.6289277701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJ5ZLfz9phHTERvGRM8khzDOQ"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Deano Cafe",
+        "formatted_address": "\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21\u0e40\u0e01\u0e49\u0e32\u0e0b\u0e2d\u0e2244 Khwaeng Suan Luang, Suan Luang, Bangkok 10250, Thailand",
+        "rating": "4.8",
+        "user_ratings_total": 17,
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114721119674728909342\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAa5MPAwiqwFYQQ8b-0CMS7OHEgT9u5wbb75466VKBGPwpNJuONbMDlyoEnzm_wi22vM2V8EG4X5q_SgELUuebW9HMz08EzO4Sx0IcN48dMP7qpExGBJ-QadLF_mPx4lmbEhCiaLbx9uMwRsk2Jd2btZUsGhSfV5zlNwskIQMkfm33F5o8ilcqnw",
+                "width": 4032
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7453322,
+                "lng": 100.6045134
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74671172989272,
+                    "lng": 100.6058750298927
+                },
+                "southwest": {
+                    "lat": 13.74401207010728,
+                    "lng": 100.6031753701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJbSxMSTqe4jARPs-pVsfuaMM"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Pirate De KOFFIE | Halal @ Bangkok",
+        "formatted_address": "2 \u0e0b\u0e2d\u0e22 8 \u0e23\u0e32\u0e21\u0e04\u0e33\u0e41\u0e2b\u0e07 24 \u0e41\u0e22\u0e01 20 \u0e2b\u0e31\u0e27\u0e2b\u0e21\u0e32\u0e01 \u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34 Bangkok 10240, Thailand",
+        "rating": "4.9",
+        "user_ratings_total": 10,
+        "photos": [
+            {
+                "height": 1477,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105688025926909704984\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAf9lwZrd0G8YUTD1hWel2e7DGImx2ls6NK8aRn7JlRxoL-_8y2-pfnt5hxITeZtha6Pm-OZjN2hMXxPDll8pGbXbbu1mW3S0Y8cPv8KbkAw3NAGtEdiLc8x0UVmM0EC2fEhBSPhMoN_q069TUbh3EFKeLGhQZeCARZYl-Oi82adbqr3Ml7uelHA",
+                "width": 1108
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.751787,
+                "lng": 100.622642
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75313332989272,
+                    "lng": 100.6239755798927
+                },
+                "southwest": {
+                    "lat": 13.75043367010728,
+                    "lng": 100.6212759201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJjZV4S95hHTERhjnAAtY-MpM"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Cafe Vienna Bangkok",
+        "formatted_address": "20/7-8 \u0e2d\u0e32\u0e04\u0e32\u0e23 Petals Inn \u0e0b\u0e2d\u0e22 \u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17 4 Sukhumvit Rd, Khlong Toei, Bangkok 10110, Thailand",
+        "rating": "4.1",
+        "user_ratings_total": 10,
+        "photos": [
+            {
+                "height": 872,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100004286453129297407\">Alfred Wilhelm Meier</a>"
+                ],
+                "photo_reference": "CmRaAAAAo2wD8C68PXpwFUCT7ySJN-mA78CWCMGX1C4eJ4fNrYXBc8-riyykdy837AeoHx6q7ChsyIQXzf9u1gVBQeb2mF69iR1rABzUxlrEQMbhUNaG5Rmvy0cmLdSiSUJp3sS-EhD7LeRwt7KHRj5P9ZZ-CJFIGhQKIy8rnkNp9jI9gPI9KdKfPpcS9g",
+                "width": 1243
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7388164,
+                "lng": 100.5529536
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74016777989272,
+                    "lng": 100.5543565798927
+                },
+                "southwest": {
+                    "lat": 13.73746812010728,
+                    "lng": 100.5516569201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJfaXduuCe4jARQhRCMfz_c24"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Animate Cafe Bangkok",
+        "formatted_address": "7th floor, MBK Center, Phayathai Rd, Wang Mai, Pathum Wan District, Bangkok 10330, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 9,
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105504302459293887604\">Varot Darasom</a>"
+                ],
+                "photo_reference": "CmRaAAAAddQCb_IvwqdvCdY71gL_uj7IKNgkBVOtrNFcXm5EOch4QukiOAReZwsBWNTQu7n5RLk4bn8ldJ3ekFIMuDtykXrNNBTRv9t6dzUFPJQFYYtcxO7RCAcxGqVqEWahR5FdEhCReO1-aBvIXiB3AlL-XFn8GhQsgv6ldzPtsbuhYjo3U-Ouwsym4g",
+                "width": 1920
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7435095,
+                "lng": 100.5298158
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74482067989272,
+                    "lng": 100.5314610798927
+                },
+                "southwest": {
+                    "lat": 13.74212102010728,
+                    "lng": 100.5287614201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJR0Fc1NKe4jARHtkhTtgdGBs"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Coffee De' Bangkok",
+        "formatted_address": "102 \u0e0b \u0e0b\u0e2d\u0e22 \u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 130 Khlong Chan, Bang Kapi District, Bangkok 10240, Thailand",
+        "rating": "4.4",
+        "user_ratings_total": 5,
+        "photos": [
+            {
+                "height": 1080,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106594140658760310351\">Natharath Chuensuk</a>"
+                ],
+                "photo_reference": "CmRaAAAAHglrUehdOxKRFEHRuRqrH_X-qJV8HPuGlx25K9UOCZflcbBTfimbLBZtM6PoqxGBA-XjSI5tUICVQPSStCcrcP1cxDsag7GYVfCvG3Hlneemm06sORsqH72I6AIihjI3EhAKExltP9ISLnwPFEqw-ag2GhT7UcmCRQKHPgtZI9_DPwLFKeHdYA",
+                "width": 1920
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.770825,
+                "lng": 100.6321099
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.77218412989272,
+                    "lng": 100.6335169298927
+                },
+                "southwest": {
+                    "lat": 13.76948447010728,
+                    "lng": 100.6308172701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJBZj1SPdhHTERp6kTQpa9J1M"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Fineday Cafe Bangkok",
+        "formatted_address": "Ramkhamhaeng 26/2 Alley, Hua Mak, Bang Kapi District, Bangkok 10240, Thailand",
+        "rating": "4.7",
+        "user_ratings_total": 3,
+        "photos": [
+            {
+                "height": 960,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105799185149552782650\">Chanya Jha</a>"
+                ],
+                "photo_reference": "CmRaAAAA_4PH3dP1t_qXWjr8a7MfT4hGPMzp7OgYCv3vae5TxMGnjA6PFx2YjzfwqxgG3_mGxySR2MJrhAxnaSJ3_uuTIYW1s9SYP1UYk_IoWrWNkGBtIhABAwDMGWYpO0US6L1-EhBzXvU58RJ50u9z3733oENsGhR3s95t6YqLHAzZZ7L7H0RxzoStZg",
+                "width": 1706
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.76063,
+                "lng": 100.631475
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.76198432989272,
+                    "lng": 100.6328243298927
+                },
+                "southwest": {
+                    "lat": 13.75928467010728,
+                    "lng": 100.6301246701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ5ad7Zu9hHTERd6k8dWy7EzE"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "im cafe bangkok",
+        "formatted_address": "719 Sukhumvit Rd, Khlong Toei Nuea, Watthana, Bangkok 10110, Thailand",
+        "rating": "4.7",
+        "user_ratings_total": 3,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109423159876306572983\">IngIng Napapenwannakul</a>"
+                ],
+                "photo_reference": "CmRaAAAAHUtZLAsoMysg1b6VQc7YxXj_PQDFylqHPZ25xQzLmEKQnFpT_X_ARbwyrjKEzhLwOtp4D73C5kvwyHsl-NYkf7lMitDYfrXu5zKr-_6S1YhPXPU7oot9FEt4byVz7EK5EhAnCQ-3nJyI7nONBw1-eFVXGhQEYO1GhVWkmb_9aHxDNqieguPNRw",
+                "width": 3024
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7405624,
+                "lng": 100.5578828
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74194317989272,
+                    "lng": 100.5590158798927
+                },
+                "southwest": {
+                    "lat": 13.73924352010728,
+                    "lng": 100.5563162201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJo0uaH-Se4jARJzn1BxCL2r0"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Soul Mate Cafe",
+        "formatted_address": "28 Ramkhamhaeng 12 Alley, Hua Mak, Bang Kapi District, Bangkok 10240, Thailand",
+        "rating": "3.3",
+        "user_ratings_total": 3,
+        "photos": [
+            {
+                "height": 2048,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109540210592965673916\">Mayuree Khajorndumrongkit</a>"
+                ],
+                "photo_reference": "CmRaAAAANop8QvtVAYz-C23rgztvLTMzSo_OgUiKfR1m-kMuDCylsr5AmY4UB0WwyK_kMXnLvoWJRXCeZcU2vpenULfkLRXBuYfVVnIx-bUZNeWPnq8bXh4Ycb1Ydz0wXLaX2_yYEhAk3zkeYQEjo6I8rUaoJxhTGhSK4nms2_jVp-ts7OK2sdng9bu4Jg",
+                "width": 2048
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.751198,
+                "lng": 100.611628
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.75251457989272,
+                    "lng": 100.6129357298927
+                },
+                "southwest": {
+                    "lat": 13.74981492010728,
+                    "lng": 100.6102360701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJsQM1UyKe4jARYSSVz1sgMIs"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Audrey Petite Cafe",
+        "formatted_address": "662 Sukhumvit Rd, Khlong Tan, Khlong Toei, Bangkok 10110, Thailand",
+        "rating": "3.0",
+        "user_ratings_total": 3,
+        "photos": [
+            {
+                "height": 1518,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/106783201862035337546\">Rayala Ratnam</a>"
+                ],
+                "photo_reference": "CmRaAAAA8DjPFLc86DAqnx5Pxr0mxVTj6mioqHJWxJy5wCZWT-9ZqUvTPZcbEZaRJD1pQc79fqJjdu5VzBScd8hDbKM2GvKPiFJ1GRL2ex9OVoybEYKNPSwQbJfrdnn5fUrmOWdIEhBc-NS_40gRmL71BKu2SS5dGhQs_r2ebId7zBkgASCcPLMfm9vTIQ",
+                "width": 2048
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7316435,
+                "lng": 100.569203
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.73308517989272,
+                    "lng": 100.5704395798927
+                },
+                "southwest": {
+                    "lat": 13.73038552010728,
+                    "lng": 100.5677399201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJ3xXA0wOf4jARrAzT9B31XmU"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "\u0e23\u0e49\u0e32\u0e19\u0e21\u0e30\u0e1e\u0e23\u0e49\u0e32\u0e27\u0e1b\u0e31\u0e48\u0e19\u0e42\u0e2a\u0e14 \u0e2a\u0e32\u0e02\u0e32\u0e23\u0e32\u0e21\u0e04\u0e33\u0e41\u0e2b\u0e0753",
+        "formatted_address": "Wang Thonglang, Wang Thonglang, Bangkok, 10310 Phlabphla, Wang Thonglang, Bangkok 10312, Thailand",
+        "rating": "5.0",
+        "user_ratings_total": 1,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115387446072746686707\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAV8RioyLtYrZtMaaVIIFCp1Qs878owGr7vUmIiTTnHJTug5JPujAp0KPUf1e19qnR1YlQd8mi9GQx0KVPtAz5vjkA5NMLh58ctS4DZd4vnO0pb09dSd9ppkCmQIDWCwXHEhDtCl77lgv2diEF2Vt4N8v3GhSlbGAuv53BgM8OU-3brDfXKK6oug",
+                "width": 3024
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7635028,
+                "lng": 100.6195702
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.76483957989272,
+                    "lng": 100.6208071798927
+                },
+                "southwest": {
+                    "lat": 13.76213992010728,
+                    "lng": 100.6181075201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJz4XqLM6f4jAR_nfbyR-0nd8"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "JS Inn & Cafe",
+        "formatted_address": "29 soi Ramkhamhaeng 43, Hua Mak, Bang kapi, Bangkok 10240, Thailand",
+        "rating": "0.0",
+        "user_ratings_total": 0,
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101191227700844506728\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAvVt9yhTxe-T1rrtVa4L2YsxqkXgdxqj9cNnU8qkRCN5Peyf5waQdEl16uJLAb0RnsbiwCvc5opytPqAefrT-kmJ4BA_gN1NPbcDedWBxSUiotPzFVk1635zUXhpMf4QbEhBgi4zn8o_SHYv6oaUv_PUTGhTyDJ90TWCboMn80kX0ch-e5JLAIw",
+                "width": 3024
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7601444,
+                "lng": 100.6160579
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.76148362989272,
+                    "lng": 100.6173813798927
+                },
+                "southwest": {
+                    "lat": 13.75878397010728,
+                    "lng": 100.6146817201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "lodging",
+            "food",
+            "point_of_interest",
+            "establishment"
+        ],
+        "place_id": "ChIJP6ZZhUyf4jARleJJYcKFdVM"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "Kore Lab Cafe Bangkok",
+        "formatted_address": "4 \u0e0b\u0e2d\u0e22 Rama IX Rd, Suan Luang, Bangkok 10250, Thailand",
+        "rating": "0.0",
+        "user_ratings_total": 0,
+        "photos": [
+            {
+                "height": 1280,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110374765530234268523\">Saimake Puengudom</a>"
+                ],
+                "photo_reference": "CmRaAAAAHSzA5ajsS94gan6OzYgdjG_88fiE29EMqHCgJoj-WbwhhOATXeEL9z540nTmXMjiGEc6ryNNcNt8Fb3YpWuWS_9ExxokSHArD0KqC8rw6ht17dPy3KryII3k3LBjQLYaEhAnFUcVIJBCkzbiDsVl3exSGhRbc-MOxD8kCgaZmOhdoyQFOwodcw",
+                "width": 1280
+            }
+        ],
+        "geometry": {
+            "location": {
+                "lat": 13.7469301,
+                "lng": 100.6281878
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.74825862989272,
+                    "lng": 100.6294416798927
+                },
+                "southwest": {
+                    "lat": 13.74555897010728,
+                    "lng": 100.6267420201073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJX-c-RVZhHTERAESAtrVIJUw"
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "name": "P'z Cafe",
+        "formatted_address": "234, Soi Ladprao 94 (Panjamit), Ladprao Road, Ladprao, Khet Ladprao, Bangkok, 10310, 10310, Thailand",
+        "rating": "0.0",
+        "user_ratings_total": 0,
+        "photos": null,
+        "geometry": {
+            "location": {
+                "lat": 13.7789588,
+                "lng": 100.6241187
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 13.78028752989272,
+                    "lng": 100.6254709298927
+                },
+                "southwest": {
+                    "lat": 13.77758787010728,
+                    "lng": 100.6227712701073
+                }
+            }
+        },
+        "types": [
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+        ],
+        "place_id": "ChIJ56XungFiHTERJocJr25NpcM"
+    }
+]
