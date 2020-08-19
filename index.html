@@ -28,7 +28,15 @@
     <link rel="stylesheet" href="https://kobari.github.io/chobcafe/assets/css/style.css?v=172063c631bbc9c0924df469d15a92cf188301de">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-H6G5Q79E8F"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
+        gtag('config', 'G-H6G5Q79E8F');
+    </script>
 </head>
 <body data-gr-c-s-loaded="true" >
 <section class="page-header">
@@ -48,7 +56,6 @@
 
                             <div class="card-body">
                                 <p class="card-text">{{ item.name }}</p>
-                                <p class="card-text">{{ item.photos }}</p>
                             </div>
 
                         </div>
