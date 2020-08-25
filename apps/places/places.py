@@ -1,20 +1,35 @@
 import json
 import time
 import os
+from pathlib import Path
+from decimal import Decimal
 
 from django.conf import settings
 from django.core import serializers
 from django.db import transaction
+from django.db.models import Prefetch
 
 import requests
 
-from places.models import Places as PlacesModel
+from places.models import (
+    Places as PlacesModel,
+    PlaceDetails,
+)
+
+
+
 
 
 class Places:
     KEY = 'AIzaSyDSTFj49ERA0vcjk56S-UNs6RYkCkeNAL8'
     PHOTO_URL = 'https://maps.googleapis.com/maps/api/place/photo'
     TEXT_SEARCH_URL = 'https://maps.googleapis.com/maps/api/place/textsearch/json'
+    PLACE_DETAIL_URL = 'https://maps.googleapis.com/maps/api/place/details/json'
+
+    def decimal_default_proc(self, obj):
+        if isinstance(obj, Decimal):
+            return float(obj)
+        raise TypeError
 
     def text_search(self):
         i=1
@@ -46,6 +61,23 @@ class Places:
             with open(f'{i}.json', 'wb') as fp:
                 fp.write(res.content)
 
+    def place_detail(self, place_id=None):
+        if place_id:
+            print('place_detail place_id=', place_id)
+            place_ids = PlacesModel.objects.filter(place_id__in=place_id
+                                                   ).values_list('place_id',
+                                                                 flat=True).order_by('-user_ratings_total')
+        else:
+            place_ids = PlacesModel.objects.values_list('place_id', flat=True
+                                                        ).order_by('-user_ratings_total')
+        for place_id in place_ids:
+            url = f"{self.PLACE_DETAIL_URL}?key={self.KEY}&place_id={place_id}"
+            res = requests.get(url)
+            print(res.url)
+            with open(f'./data/{place_id}.json', 'wb') as fp:
+                fp.write(res.content)
+            time.sleep(2)
+
     def place_photos(self):
         for i in range(1, 4):
             filepath = os.path.join(settings.BASE_DIR,
@@ -62,7 +94,7 @@ class Places:
                         with open(image_path, 'wb') as fp2:
                             fp2.write(res.content)
 
-    def bulk_insert(self):
+    def places_bulk_insert(self):
 
         with transaction.atomic():
             for i in range(1, 4):
@@ -88,19 +120,54 @@ class Places:
                         )
                     PlacesModel.objects.bulk_create(insert_data)
 
+    def place_details_bulk_insert(self):
+        p = Path(f'{settings.BASE_DIR}/../data')
+        with transaction.atomic():
+            insert_data = []
+            for filepath in p.glob('*.json'):
+                print(filepath)
+                with open(filepath, 'r') as fp:
+                    data = json.load(fp)
+                    item = data['result']
+                    insert_data.append(PlaceDetails(
+                        place=PlacesModel.objects.get(place_id=item['place_id']),
+                        url=item.get('url'),
+                        website=item.get('website'),
+                        photos=item.get('photos'),
+                        reviews=item.get('reviews'),
+                        opening_hours=item.get('opening_hours'),
+                        address_components=item.get('address_components'),
+                        )
+                    )
+            PlaceDetails.objects.bulk_create(insert_data)
+
     def write_json(self):
-        models = PlacesModel.objects.order_by('-user_ratings_total')
-        json_res = serializers.serialize('json', models)
-        json_res = json.loads(json_res)
-        #print(type(json_res), json_res)
+        models = PlacesModel.objects.exclude(
+            photos=None
+        ).order_by(
+            '-user_ratings_total'
+        ).prefetch_related(Prefetch('placedetails_set',
+                                    queryset=PlaceDetails.objects.all(),
+                                    to_attr='place_details')
+                           )
         filepath = os.path.join(settings.BASE_DIR,
                                 '../assets/output.json')
         write_data = []
-        for item in json_res:
-            tmp = item['fields']
-            tmp['place_id'] = item['pk']
+        for item in models:
+            tmp = {
+                'place_id': item.place_id,
+                'name': item.name,
+                'business_status': item.business_status,
+                'rating': item.rating,
+                'user_ratings_total': item.user_ratings_total,
+                'formatted_address': item.formatted_address,
+                'photos': item.photos,
+                'url': item.place_details[0].url,
+                'website': item.place_details[0].website,
+            }
             write_data.append(tmp)
 
-        write_data = json.dumps(write_data, indent=4)
+        write_data = json.dumps(write_data, indent=4,
+                                default=self.decimal_default_proc)
         with open(filepath, 'w') as fp:
             fp.writelines(write_data)
