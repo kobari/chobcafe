@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+#    db:
+#      image: postgres
+#      environment:
+#        - POSTGRES_DB=postgres
+#        - POSTGRES_USER=postgres
+#        - POSTGRES_PASSWORD=postgres
+  web:
+    build: .
+    command: python apps/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/var/www/chobcafe
+    ports:
+      - "8000:8000"
