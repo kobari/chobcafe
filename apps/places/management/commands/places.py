@@ -3,6 +3,7 @@ from places.places import Places
 
 
 class Command(BaseCommand):
+    help = 'Google Places API '
 
     def add_arguments(self, parser):
         parser.add_argument('--update_places', dest='update_places', action='store_true')
@@ -15,6 +16,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         app = Places()
+        print(options)
         if options['text_search']:
             app.text_search()
         if options['update_places']:
@@ -24,7 +26,6 @@ class Command(BaseCommand):
         if options['write_json']:
             print(app.write_json())
         if options['place_detail']:
-            print(options)
             app.place_detail(options['place_id'])
         if options['place_detail_update']:
             app.place_details_bulk_insert()

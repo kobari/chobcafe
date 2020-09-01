@@ -79,20 +79,20 @@ class Places:
             time.sleep(2)
 
     def place_photos(self):
-        for i in range(1, 4):
-            filepath = os.path.join(settings.BASE_DIR,
-                                    f'../{i}.json')
-            with open(filepath, 'r') as fp:
-                data = json.load(fp)
-                #print(data)
-                for item in data['results']:
-                    if 'photos' in item:
-                        url = f"{self.PHOTO_URL}?key={self.KEY}&photoreference={item['photos'][0]['photo_reference']}&maxheight={item['photos'][0]['height']}&maxwidth={item['photos'][0]['width']}"
-                        res = requests.get(url)
-                        image_path = os.path.join(settings.BASE_DIR,
-                                                  f"../images/{item['name']}.png")
-                        with open(image_path, 'wb') as fp2:
-                            fp2.write(res.content)
+        models = PlaceDetails.objects.exclude(photos=None)
+        for model in models:
+            dir_path = f'{settings.BASE_DIR}/../front/public/images/{model.place_id}'
+            os.makedirs(dir_path, exist_ok=True)
+            #data = json.(model.photos)
+            #print(type(model.photos), model.photos)
+            for i, photo in enumerate(model.photos):
+                url = f"{self.PHOTO_URL}?key={self.KEY}&photoreference={photo['photo_reference']}&maxheight={photo['height']}&maxwidth={photo['width']}"
+                res = requests.get(url)
+                image_path = os.path.join(dir_path,
+                                          f"./{photo['photo_reference']}.png")
+                with open(image_path, 'wb') as fp2:
+                    fp2.write(res.content)
+                time.sleep(2)
 
     def places_bulk_insert(self):
 

@@ -5,3 +5,6 @@ RUN mkdir -p ${APPDIR}
 WORKDIR ${APPDIR}
 COPY requirements.txt ${APPDIR}
 RUN pip install -r requirements.txt
+
+# Copy all files
+COPY . ${APPDIR}
