@@ -4,6 +4,7 @@ import { BootstrapVue } from 'bootstrap-vue'
 
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
+require('vue-image-lightbox/dist/vue-image-lightbox.min.css')
 
 Vue.config.productionTip = false
 Vue.use(BootstrapVue)

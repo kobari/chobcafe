@@ -10,12 +10,24 @@ class PlaceDetailsSerializer(serializers.ModelSerializer):
 
     def to_representation(self, instance):
         # prefechで取得してる為配列になっている
-        data = super(PlaceDetailsSerializer, self).to_representation(instance[0])
-        return data
+        image_path = f'http://localhost:8080/images/{instance[0].place_id}'
+        return {
+            # vue-image-lightbox ように変換
+            "photos": [
+                {
+                    'src': f"{image_path}/{x['photo_reference']}.png",
+                    'thumb': f"{image_path}/{x['photo_reference']}.png",
+                 } for x in instance[0].photos
+            ]
+            ,
+            'website': instance[0].website,
+            'url': instance[0].url,
+            'place_id': instance[0].place_id,
+        }
 
     class Meta:
         model = PlaceDetails
-        fields = ['website', 'url', 'photos']
+        fields = ['website', 'url', 'photos', 'place_id']
 
 
 class PlacesSerializer(serializers.ModelSerializer):
