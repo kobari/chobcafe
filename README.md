@@ -14,6 +14,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 - Django
 - Vue
+ - vue-cli
+ - bootstrap-vue
+ - vue-light-box
+ - axios
 - docker
 - docker-compose
 
