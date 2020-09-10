@@ -5,12 +5,17 @@
 </template>
 
 <script>
+import Vue from 'vue'
+
 import CafeList from './components/CafeList.vue'
+import ScrollLoader from 'vue-scroll-loader'
+
+Vue.use(ScrollLoader)
 
 export default {
   name: 'App',
   components: {
-    CafeList
+    CafeList,
   }
 }
 </script>

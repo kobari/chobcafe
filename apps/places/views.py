@@ -17,7 +17,7 @@ class PlacesSerViewSet(viewsets.ReadOnlyModelViewSet):
     """
     serializer_class = PlacesSerializer
 
-    queryset = Places.objects.all().order_by('-user_ratings_total').prefetch_related(
+    queryset = Places.objects.exclude(photos=None).order_by('-user_ratings_total').prefetch_related(
         Prefetch('placedetails_set',
                  queryset=PlaceDetails.objects.all(),
                  to_attr='place_details'))

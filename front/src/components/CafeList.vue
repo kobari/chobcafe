@@ -1,25 +1,29 @@
 <template>
 
   <div class="container">
-    <div class="row" v-for="(item,index) in cafe_list" v-bind:key="item.place_id">
-        <b-card
-            v-bind:title="item.name"
-            v-bind:img-src="'/images/' + item.name + '.png'"
-            v-bind:img-alt="item.name"
-            img-top
-            tag="article"
-            class="mb-2"
-            v-on:click="detail(index)"
-        >
-          <b-card-text>
-            {{item.formatted_address}}
-          </b-card-text>
-          <b-link target="_blank" v-bind:href="item.place_details.website" class="card-link">website</b-link>
-          <b-link target="_blank" v-bind:href="item.place_details.url" class="card-link">map</b-link>
+    <transition-group tag="div" name="fade">
+      <div class="row" v-for="(item,index) in cafe_list" v-bind:key="item.place_id">
 
-        </b-card>
-      <LightBox ref="lightbox" :media="item.place_details.photos" :show-light-box="false" :show-caption="true" />
-    </div>
+          <b-card
+              v-bind:title="item.name"
+              v-bind:img-src="'/images/' + item.name + '.png'"
+              v-bind:img-alt="item.name"
+              img-top
+              tag="article"
+              class="mb-2"
+              v-on:click="detail(index)"
+          >
+            <b-card-text>
+              {{item.formatted_address}}
+            </b-card-text>
+            <b-link target="_blank" v-bind:href="item.place_details.website" class="card-link">website</b-link>
+            <b-link target="_blank" v-bind:href="item.place_details.url" class="card-link">map</b-link>
+
+          </b-card>
+        <LightBox ref="lightbox" :media="item.place_details.photos" :show-light-box="false" :show-caption="true" />
+      </div>
+    </transition-group>
+      <div v-if="next"><b-button variant="outline-primary" v-on:click="loadMoreCafeList">Load more</b-button></div>
 
   </div>
 </template>
@@ -39,24 +43,27 @@ export default {
     //cafe_list: Array
   },
   components: {
-    LightBox
+    LightBox,
   },
   data(){
     return {
-      cafe_list: null
+      disable: true,
+      cafe_list: null,
+      page: 1,
+      next: null,
     }
   },
   beforeCreate() {
-    console.log(this)
-    console.log(this.vue)
+    // console.log(this)
     let self = this
     Axios.get('http://localhost:8000/places/list/', {
-      headers:{
-       // 'Access-Control-Allow-Origin' : '*',
+      params:{
+       page: 1
       }
     }).then(function (response){
       console.log(response.data)
       self.cafe_list = response.data.results
+      self.next = response.data.next
       console.log(self.cafe_list)
     })
   },
@@ -65,6 +72,16 @@ export default {
       console.log(index, event)
       //console.log(this.$ref.lightbox)
       console.log(this.$refs.lightbox[index].showImage(0))
+    },
+    loadMoreCafeList : function (){
+      let self = this
+      console.log('loadMoreCafeList', self.next)
+      Axios.get(self.next, {
+      }).then(function (response){
+        self.cafe_list.push(...response.data.results)
+        self.next = response.data.next
+        console.log(self.cafe_list)
+      })
     }
   }
 }
@@ -85,5 +102,11 @@ li {
 }
 a {
   color: #42b983;
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+  opacity: 0;
 }
 </style>
