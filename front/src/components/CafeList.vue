@@ -6,7 +6,7 @@
 
           <b-card
               v-bind:title="item.name"
-              v-bind:img-src="'/images/' + item.name + '.png'"
+              v-bind:img-src="'/images/' + item.place_id + '/' + item.name + '.png'"
               v-bind:img-alt="item.name"
               img-top
               tag="article"
@@ -23,7 +23,9 @@
         <LightBox ref="lightbox" :media="item.place_details.photos" :show-light-box="false" :show-caption="true" />
       </div>
     </transition-group>
-      <div v-if="next"><b-button variant="outline-primary" v-on:click="loadMoreCafeList">Load more</b-button></div>
+    <transition name="load-more" :duration="5000">
+      <div><b-button v-if="next" variant="outline-primary" v-on:click="loadMoreCafeList">Load more</b-button></div>
+    </transition>
 
   </div>
 </template>
@@ -54,33 +56,26 @@ export default {
     }
   },
   beforeCreate() {
-    // console.log(this)
     let self = this
-    Axios.get('http://localhost:8000/places/list/', {
+    Axios.get('http://localhost/api/places/list/', {
       params:{
        page: 1
       }
     }).then(function (response){
-      console.log(response.data)
       self.cafe_list = response.data.results
       self.next = response.data.next
-      console.log(self.cafe_list)
     })
   },
   methods:{
-    detail: function (index, event){
-      console.log(index, event)
-      //console.log(this.$ref.lightbox)
-      console.log(this.$refs.lightbox[index].showImage(0))
+    detail: function (index){
+      this.$refs.lightbox[index].showImage(0)
     },
     loadMoreCafeList : function (){
       let self = this
-      console.log('loadMoreCafeList', self.next)
       Axios.get(self.next, {
       }).then(function (response){
         self.cafe_list.push(...response.data.results)
         self.next = response.data.next
-        console.log(self.cafe_list)
       })
     }
   }
@@ -108,5 +103,8 @@ a {
 }
 .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
   opacity: 0;
+}
+.load-more-leave-to {
+  transition: opacity 5s;
 }
 </style>
