@@ -8,9 +8,11 @@ services:
 #        - POSTGRES_USER=postgres
 #        - POSTGRES_PASSWORD=postgres
   web:
-    build: .
-    command: python apps/manage.py runserver 0.0.0.0:8000
+    build:
+      context: .
+    user: chobcafe
+    #command: python apps/manage.py runserver 0.0.0.0:8000
     volumes:
-      - .:/var/www/chobcafe
+      - ./apps:/var/www/chobcafe
     ports:
       - "8000:8000"

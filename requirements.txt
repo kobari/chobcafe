@@ -4,3 +4,4 @@ requests
 django-jsonfield
 django-filter
 django-cors-headers
+uwsgi

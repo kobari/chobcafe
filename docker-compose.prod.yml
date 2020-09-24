@@ -1,0 +1,42 @@
+version: '3'
+
+services:
+#    db:
+#      image: postgres
+#      environment:
+#        - POSTGRES_DB=postgres
+#        - POSTGRES_USER=postgres
+#        - POSTGRES_PASSWORD=postgres
+  web:
+    build: .
+    command: uwsgi --ini /var/www/chobcafe/uwsgi.ini
+    user: chobcafe
+    volumes:
+      - ./apps:/var/www/chobcafe
+    ports:
+      - "8000:8000"
+    networks:
+      chobcafe-network:
+        ipv4_address: 172.23.0.3
+  nginx:
+    build:
+      context: .
+      dockerfile: ./nginx/Dockerfile.nginx
+    volumes:
+      - ./front/dist:/var/www/html
+      - ./nginx/logs:/var/log/nginx
+    ports:
+      - "80:80"
+    networks:
+      chobcafe-network:
+        ipv4_address: 172.23.0.2
+volumes:
+  static_volume:
+
+networks:
+  chobcafe-network:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+        - subnet: 172.23.0.0/24

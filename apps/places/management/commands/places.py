@@ -19,13 +19,15 @@ class Command(BaseCommand):
         print(options)
         if options['text_search']:
             app.text_search()
+            app.places_update_or_create()
         if options['update_places']:
-            app.places_bulk_insert()
+            app.places_update_or_create()
         if options['place_photos']:
             app.place_photos()
         if options['write_json']:
             print(app.write_json())
         if options['place_detail']:
             app.place_detail(options['place_id'])
+            app.place_details_update_or_create()
         if options['place_detail_update']:
-            app.place_details_bulk_insert()
+            app.places_update_or_create()

@@ -10,8 +10,8 @@ class PlaceDetailsSerializer(serializers.ModelSerializer):
 
     def to_representation(self, instance):
         # prefechで取得してる為配列になっている
-        image_path = f'http://localhost:8080/images/{instance[0].place_id}'
-        if instance[0].photos:
+        if instance:
+            image_path = f'http://localhost/images/{instance[0].place_id}'
             return {
                 # vue-image-lightbox ように変換
                 "photos": [
